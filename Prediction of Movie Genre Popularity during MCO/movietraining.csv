@@ -1,0 +1,401 @@
+Gender,Age,Status,State,movieinaday,genre,moviename,rating,watchmovie,favoriteactororactressisinthemovie,movieplatform,languagemovie
+Female,20 - 29,Student,Terengganu,Less than 5,Action;Adventure;Comedy;Crime;Mystery;Romance;Thriller,Crazy little thing called love (2010),4,3 times,Yes,Netflix,English
+Male,20 - 29,Student,Kedah,Less than 5,Thriller,Annabelle Comes Homes (2019),4,3 times,No,Netflix,English
+Female,20 - 29,Student,Terengganu,Less than 5,Comedy,Crazy little thing called love (2010),4,3 times,No,Netflix,English
+Female,20 - 29,Student,Terengganu,Less than 5,Comedy,Crazy little thing called love (2010),4,3 times,No,Netflix,English
+Female,20 - 29,Student,Kedah,Less than 5,Comedy,Crazy little thing called love (2010),4,3 times,No,Online sites,English
+Female,20 - 29,Student,Terengganu,Less than 5,Comedy,Crazy little thing called love (2010),4,3 times,Yes,Online sites,English
+Male,20 - 29,Student,Kedah,Less than 5,Thriller,Jumanji: The Next Level( 2019),4,3 times,No,Online sites,English
+Female,13 and below,Student,Terengganu,Less than 5,Action;Adventure;Animation;Crime;Fantasy;Live Action;Romance;Sci-fi,Frozen II (2019),4,3 times,Yes,Online sites,English
+Female,13 and below,Student,Kedah,Less than 5,Action;Adventure;Animation;Crime;Fantasy;Live Action;Romance;Sci-fi,Frozen II (2019),4,3 times,No,Online sites,English
+Male,20 - 29,Student,Terengganu,Less than 5,Thriller,Train To Busan,4,3 times,No,Online sites,English
+Female,13 and below,Student,Kedah,Less than 5,Thriller,Frozen II (2019),4,3 times,No,Online sites,English
+Female,20 - 29,Student,Perak,Less than 5,Thriller,Baby Driver (2017),4,3 times,Yes,Online sites,English
+Female,13 and below,Student,Kedah,Less than 5,Action;Adventure;Animation;Crime;Fantasy;Live Action;Romance;Sci-fi,Frozen II (2019),4,3 times,No,Online sites,English
+Male,13 and below,Student,Perak,Less than 5,Action;Adventure;Animation;Crime;Fantasy;Live Action;Romance;Sci-fi,Frozen II (2019),4,3 times,No,Online sites,English
+Male,20 - 29,Student,Kedah,Less than 5,Thriller,Baby Driver (2017),4,3 times,Yes,Online sites,English
+Female,13 and below,Student,Perak,Less than 5,Action;Adventure;Animation;Crime;Fantasy;Live Action;Romance;Sci-fi,Frozen II (2019),4,3 times,No,Online sites,English
+Male,20 - 29,Student,Perak,Less than 5,Thriller,Baby Driver (2017),4,3 times,Yes,Online sites,English
+Male,20 - 29,Student,Negeri Sembilan,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Sci-fi;Thriller,Baby Driver (2017),4,3 times,No,Online sites,English
+Male,13 and below,Student,Perak,Less than 5,Thriller,To All the Boys: P.S. I Still Love You,4,3 times,No,Online sites,English
+Male,13 and below,Student,Perak,Less than 5,Thriller,Baby Driver (2017),4,3 times,No,Online sites,English
+Male,20 - 29,Student,Perak,Less than 5,Thriller,Maleficient : Mistress of Evil,4,3 times,Yes,Online sites,English
+Male,20 - 29,Student,Negeri Sembilan,Less than 5,Action;Adventure;Comedy;Crime;Mystery;Romance;Thriller,Munafik 2,4,3 times,No,Online sites,Malay
+Female,20 - 29,Student,Perak,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Fantasy;Horror;Live Action;Mystery;Romance;Sci-fi;Thriller,Maze Runner,3,Once,No,Online sites,English
+Male,20 - 29,Student,Melaka,Less than 5,Action;Adventure;Comedy;Fantasy;Horror;Sci-fi,Avengers: Endgame (2019),5,2 times,Yes,Television,English
+Female,13 and below,Student,Kedah,Less than 5,Action;Adventure;Animation;Crime;Fantasy;Live Action;Romance;Sci-fi,Frozen II (2019),4,3 times,Yes,Online sites,English
+Female,13 and below,Student,Negeri Sembilan,5 or more,Action;Adventure;Comedy;Crime;Romance;Sci-fi,Hunger Games,5,2 times,No,Online sites,English
+Male,20 - 29,Student,Kedah,Less than 5,Thriller,Maleficient : Mistress of Evil,4,3 times,No,Online sites,English
+Male,13 and below,Student,Wilayah Persekutuan,Less than 5,Action;Adventure;Fantasy;Thriller,Avengers: Endgame (2019),5,3 times,No,Television,English
+Male,14 - 19,Student,Selangor,Less than 5,Action;Adventure;Animation;Comedy;Fantasy,Ejen Ali The Movie,5,Once,No,Online sites,Malay
+Female,13 and below,Student,Kedah,Less than 5,Action;Adventure;Animation;Crime;Fantasy;Live Action;Romance;Sci-fi,Frozen II (2019),4,3 times,Yes,Online sites,English
+Male,20 - 29,Student,Sarawak,Less than 5,Adventure;Animation;Crime;Fantasy;Horror;Thriller,Munafik 2,5,Once,Yes,Online sites,Malay
+Female,13 and below,Student,Kedah,Less than 5,Action;Adventure;Animation;Crime;Fantasy;Live Action;Romance;Sci-fi,Frozen II (2019),4,3 times,Yes,Online sites,English
+Male,20 - 29,Student,Wilayah Persekutuan,Less than 5,Action;Adventure;Comedy;Crime;Fantasy;Horror;Mystery;Sci-fi;Thriller,Kong: Skull Island(2017),3,Once,No,Online sites,English
+Female,13 and below,Student,Kedah,Less than 5,Action;Adventure;Animation;Crime;Fantasy;Live Action;Romance;Sci-fi,Frozen II (2019),4,3 times,No,Online sites,English
+Male,20 - 29,Student,Selangor,5 or more,Action;Adventure;Comedy;Crime;Fantasy;Live Action;Mystery;Sci-fi;Thriller,Avengers: Endgame (2019),5,Once,No,Television,English
+Female,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Fantasy;Romance;Sci-fi;Thriller,Hit and Run Squad (2019),4,3 times,Yes,Television,Korean
+Female,30 and above,Goverment sector workers,Johor,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Fantasy;Horror;Romance;Sci-fi,3 Idiots,5,2 times,No,Online sites,English
+Male,30 and above,Private sector workers,Perlis,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Live Action;Mystery;Sci-fi;Thriller,Annabelle Comes Homes (2019),5,3 times,No,Online sites,English
+Male,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Sci-fi;Thriller,Avengers: Endgame (2019),4,3 times,No,Netflix,English
+Female,30 and above,Private sector workers,Melaka,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Fantasy;Live Action;Mystery;Romance;Sci-fi;Thriller,Exit (2019),5,Once,No,Online sites,Korean
+Male,20 - 29,Student,Johor,Less than 5,Thriller,Baby Driver (2017),4,3 times,No,Netflix,English
+Male,30 and above,Goverment sector workers,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Sci-fi;Thriller,Avengers: Endgame (2019),4,3 times,No,Online sites,English
+Male,20 - 29,Student,Johor,Less than 5,Thriller,Baby Driver (2017),4,3 times,Yes,Online sites,English
+Male,30 and above,Goverment sector workers,Kedah,Less than 5,Thriller,Avengers: Endgame (2019),4,3 times,No,Netflix,English
+Female,20 - 29,Student,Perlis,Less than 5,Action;Adventure;Comedy;Crime;Drama;Fantasy;Romance;Sci-fi,3 Idiots,5,2 times,No,Online sites,Hindi
+Male,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Sci-fi;Thriller,Avengers: Endgame (2019),4,3 times,No,Netflix,English
+Female,13 and below,Student,Selangor,Less than 5,Action;Adventure;Animation;Comedy;Drama;Fantasy;Live Action;Romance;Sci-fi,The Lion King (2019),5,More than 3 times,No,Online sites,English
+Female,20 - 29,Student,Selangor,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Fantasy;Horror;Live Action;Romance;Sci-fi;Thriller,The Lion King (2019),5,More than 3 times,No,Online sites,English
+Male,20 - 29,Student,Johor,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Sci-fi;Thriller,Avengers: Endgame (2019),4,3 times,Yes,Netflix,English
+Male,20 - 29,Student,Sabah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Sci-fi;Thriller,Hit and Run Squad (2019),5,Once,No,Online sites,Korean
+Male,30 and above,Goverment sector workers,Pahang,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Sci-fi;Thriller,Avengers: Endgame (2019),4,3 times,Yes,Online sites,English
+Male,13 and below,Student,Kelantan,Less than 5,Action;Adventure;Comedy;Crime;Fantasy;Horror;Live Action;Mystery;Sci-fi;Thriller,Crazy Rich Asian,5,Once,No,Others,English
+Male,30 and above,Goverment sector workers,Pahang,Less than 5,Thriller,Death Note: Light Up the New World (2016),4,3 times,No,Television,English
+Male,20 - 29,Student,Pahang,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Sci-fi;Thriller,Avengers: Endgame (2019),4,3 times,No,Netflix,English
+Female,13 and below,Student,Melaka,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Fantasy;Horror;Live Action;Mystery;Romance;Sci-fi;Thriller,Ejen Ali The Movie,4,Once,No,Online sites,Malay
+Male,20 - 29,Student,Kedah,Less than 5,Thriller,Jumanji: The Next Level( 2019),4,3 times,No,Netflix,English
+Male,30 and above,Goverment sector workers,Pahang,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Sci-fi;Thriller,Avengers: Endgame (2019),4,3 times,No,Netflix,English
+Male,30 and above,Private sector workers,Selangor,Less than 5,Action;Adventure;Comedy;Crime;Drama;Horror;Romance;Sci-fi;Thriller,Avengers: Endgame (2019),4,Once,No,Online sites,English
+Male,30 and above,Goverment sector workers,Pahang,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Sci-fi;Thriller,Avengers: Endgame (2019),4,3 times,No,Netflix,English
+Male,13 and below,Student,Sarawak,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Live Action;Sci-fi;Thriller,Spider-Man: Far from Home (2019),5,2 times,Yes,Online sites,English
+Female,30 and above,Private sector workers,Selangor,Less than 5,Comedy;Drama;Romance,Train To Busan,5,Once,Yes,Online sites,Korean
+Male,14 - 19,Student,Pahang,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Live Action;Mystery;Sci-fi;Thriller,Death Note: Light Up the New World (2016),5,2 times,No,Online sites,Japanese
+Male,30 and above,Goverment sector workers,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Sci-fi;Thriller,Jumanji: The Next Level( 2019),4,3 times,Yes,Online sites,English
+Female,20 - 29,Goverment sector workers,Selangor,5 or more,Action;Animation;Comedy;Crime;Drama;Fantasy;Romance;Sci-fi,Crazy Rich Asian,4,Once,No,Netflix,English
+Female,30 and above,Goverment sector workers,Selangor,Less than 5,Comedy;Drama;Fantasy;Romance;Sci-fi,Harry Potter and the chamber of Secret (1998),5,More than 3 times,Yes,Television,English
+Female,30 and above,Goverment sector workers,Pahang,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Sci-fi;Thriller,Avengers: Endgame (2019),4,3 times,Yes,Online sites,English
+Female,14 - 19,Student,Penang,Less than 5,Animation;Comedy;Crime;Drama;Fantasy;Live Action;Romance,Crazy little thing called love (2010),5,2 times,No,Online sites,English
+Female,30 and above,Goverment sector workers,Pahang,Less than 5,Thriller,Annabelle Comes Homes (2019),4,3 times,Yes,Television,English
+Male,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Sci-fi;Thriller,Avengers: Endgame (2019),4,3 times,Yes,Online sites,English
+Female,20 - 29,Student,Negeri Sembilan,5 or more,Animation;Comedy;Crime;Drama;Fantasy;Romance,Frozen II (2019),4,2 times,No,Online sites,English
+Male,20 - 29,Student,Pahang,Less than 5,Thriller,Baby Driver (2017),4,3 times,No,Online sites,Korean
+Male,20 - 29,Student,Pahang,Less than 5,Thriller,Avengers: Endgame (2019),4,3 times,No,Online sites,English
+Female,20 - 29,Student,Pahang,Less than 5,Thriller,The Divine Fury (2019),4,3 times,No,Online sites,Korean
+Female,20 - 29,Student,Selangor,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Horror;Live Action;Romance;Sci-fi;Thriller,Death Note: Light Up the New World (2016),5,3 times,No,Others,English
+Male,14 - 19,Student,Pahang,5 or more,Adventure;Animation;Comedy;Crime;Drama;Fantasy;Live Action;Mystery;Romance;Sci-fi,Crazy little thing called love (2010),4,2 times,No,Netflix,English
+Female,20 - 29,Student,Kelantan,5 or more,Comedy;Drama;Mystery;Romance;Thriller,Frozen II (2019),4,Once,Yes,Netflix,English
+Female,20 - 29,Student,Selangor,Less than 5,Comedy;Drama;Romance;Thriller,Fall in Love at First Kiss (2019),5,3 times,No,Online sites,English
+Female,20 - 29,Student,Selangor,Less than 5,Action;Comedy;Drama;Horror;Live Action,Harry Potter and the chamber of Secret (1998),4,2 times,Yes,Netflix,English
+Female,20 - 29,Student,Kelantan,Less than 5,Action;Adventure;Comedy;Fantasy;Horror,Maleficient : Mistress of Evil,5,2 times,Yes,Online sites,English
+Female,20 - 29,Unemployed,Terengganu,5 or more,Action;Adventure;Animation;Comedy;Crime;Drama;Fantasy;Romance;Sci-fi;Thriller,Maleficient : Mistress of Evil,5,3 times,Yes,Online sites,English
+Female,20 - 29,Student,Kelantan,Less than 5,Comedy;Drama;Horror;Romance;Thriller,Annabelle Comes Homes (2019),5,Once,No,Online sites,English
+Female,20 - 29,Private sector workers,Wilayah Persekutuan,Less than 5,Action;Comedy;Romance,Avengers: Endgame (2019),4,2 times,Yes,Online sites,English
+Female,20 - 29,Student,Selangor,Less than 5,Action;Comedy;Romance;Sci-fi,Avengers: Endgame (2019),5,Once,Yes,Others,English
+Female,20 - 29,Student,Perak,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Fantasy;Horror;Mystery;Romance;Sci-fi;Thriller,Avengers: Endgame (2019),5,More than 3 times,Yes,Others,English
+Male,20 - 29,Student,Kelantan,Less than 5,Action;Adventure;Comedy;Fantasy;Sci-fi,3 Idiots,5,More than 3 times,Yes,Others,Hindi
+Female,20 - 29,Private sector workers,Terengganu,Less than 5,Adventure;Animation;Comedy;Drama;Fantasy;Horror;Mystery;Romance;Thriller,Exit (2019),5,More than 3 times,Yes,Online sites,Korean
+Female,20 - 29,Student,Melaka,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Fantasy;Horror;Live Action;Mystery;Romance;Sci-fi;Thriller,Crazy little thing called love (2010),5,3 times,Yes,Youtube,English
+Male,20 - 29,Student,Selangor,Less than 5,Action;Adventure;Animation;Comedy;Fantasy,3 Idiots,5,More than 3 times,No,Online sites,English
+Female,20 - 29,Others,Terengganu,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Fantasy;Mystery;Romance;Sci-fi,Ejen Ali The Movie,5,2 times,No,Others,English
+Female,20 - 29,Student,Selangor,Less than 5,Adventure;Animation;Comedy;Drama;Romance,3 Idiots,5,More than 3 times,No,Online sites,English
+Female,20 - 29,Student,Johor,Less than 5,Action;Adventure;Animation;Comedy;Fantasy;Horror;Live Action;Mystery;Sci-fi;Thriller,Jumanji: The Next Level( 2019),5,Once,No,Others,English
+Female,20 - 29,Student,Johor,Less than 5,Action;Adventure;Animation;Fantasy;Live Action;Mystery;Sci-fi;Thriller,Train To Busan,5,3 times,No,Television,English
+Female,20 - 29,Student,Kelantan,Less than 5,Adventure;Crime;Drama;Horror;Mystery;Thriller,Maze Runner,4,More than 3 times,No,Others,English
+Male,20 - 29,Student,Johor,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Sci-fi;Thriller,Spider-Man: Far from Home (2019),4,Once,Yes,Others,English
+Female,20 - 29,Student,Selangor,Less than 5,Comedy;Crime;Drama;Fantasy;Romance,3 Idiots,3,2 times,Yes,Netflix,English
+Female,20 - 29,Student,Selangor,Less than 5,Action;Adventure;Crime;Horror,Avengers: Endgame (2019),5,2 times,Yes,Online sites,English
+Female,20 - 29,Student,Selangor,Less than 5,Adventure;Comedy;Crime;Drama;Fantasy;Live Action;Romance;Sci-fi,Avengers: Endgame (2019),4,More than 3 times,No,Online sites,English
+Female,20 - 29,Student,Selangor,Less than 5,Comedy;Drama;Romance,The Divine Fury (2019),4,2 times,Yes,Netflix,Korean
+Female,20 - 29,Student,Negeri Sembilan,Less than 5,Drama;Horror,Maleficient : Mistress of Evil,4,2 times,Yes,Online sites,English
+Male,13 and below,Student,Negeri Sembilan,Less than 5,Action;Animation;Horror;Sci-fi;Thriller,Ejen Ali The Movie,5,More than 3 times,Yes,Online sites,Malay
+Female,20 - 29,Student,Negeri Sembilan,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Romance;Thriller,Crazy Rich Asian,5,2 times,No,Online sites,English
+Female,20 - 29,Student,Negeri Sembilan,Less than 5,Crime;Romance,3 Idiots,3,2 times,Yes,Youtube,English
+Female,20 - 29,Others,Terengganu,Less than 5,Animation;Comedy;Drama;Fantasy;Mystery;Romance,The Lion King (2019),4,Once,No,Others,English
+Female,20 - 29,Private sector workers,Negeri Sembilan,Less than 5,Action;Adventure;Comedy;Crime;Drama;Fantasy;Horror;Mystery;Romance;Sci-fi;Thriller,Avengers: Endgame (2019),4,3 times,No,Others,English
+Female,20 - 29,Unemployed,Negeri Sembilan,Less than 5,Fantasy;Horror,Maleficient : Mistress of Evil,5,2 times,No,Online sites,English
+Male,20 - 29,Student,Kedah,Less than 5,Thriller,Baby Driver (2017),4,3 times,No,Online sites,English
+Male,20 - 29,Student,Kedah,Less than 5,Thriller,Baby Driver (2017),4,3 times,No,Online sites,English
+Female,13 and below,Student,Melaka,Less than 5,Action;Adventure;Animation;Crime;Fantasy;Live Action;Romance;Sci-fi,Frozen II (2019),4,3 times,No,Online sites,English
+Male,20 - 29,Student,Kedah,Less than 5,Thriller,Baby Driver (2017),4,3 times,Yes,Online sites,English
+Female,13 and below,Student,Kedah,Less than 5,Action;Adventure;Animation;Crime;Fantasy;Live Action;Romance;Sci-fi,Frozen II (2019),4,3 times,No,Online sites,English
+Male,20 - 29,Student,Melaka,Less than 5,Thriller,Maleficient : Mistress of Evil,4,3 times,Yes,Online sites,English
+Male,20 - 29,Student,Kedah,Less than 5,Thriller,Baby Driver (2017),4,3 times,No,Online sites,English
+Male,20 - 29,Student,Melaka,Less than 5,Action;Adventure;Comedy;Crime;Drama;Fantasy;Horror;Live Action;Mystery;Romance;Thriller,Baby Driver (2017),4,3 times,No,Online sites,English
+Male,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Sci-fi;Thriller,Maleficient : Mistress of Evil,4,3 times,No,Netflix,English
+Male,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Comedy;Crime;Drama;Fantasy;Horror;Live Action;Mystery;Romance;Thriller,Baby Driver (2017),4,3 times,No,Online sites,English
+Female,20 - 29,Student,Perak,Less than 5,Action;Adventure;Comedy;Crime;Drama;Fantasy;Horror;Live Action;Mystery;Romance;Thriller,Beauty and the Beast (2017),4,Once,No,Online sites,English
+Female,20 - 29,Student,Selangor,Less than 5,Action;Adventure;Crime;Fantasy;Horror;Live Action,Beauty and the Beast (2017),4,3 times,No,Online sites,English
+Female,20 - 29,Student,Penang,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Romance;Sci-fi;Thriller,Annabelle Comes Homes (2019),5,Once,No,Online sites,English
+Female,30 and above,Private sector workers,Wilayah Persekutuan,Less than 5,Comedy;Crime;Drama;Romance;Sci-fi;Thriller,Hit and Run Squad (2019),5,3 times,Yes,Television,Korean
+Female,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Sci-fi;Thriller,Munafik 2,4,3 times,No,Online sites,Malay
+Male,20 - 29,Student,Kedah,Less than 5,Thriller,Baby Driver (2017),4,3 times,Yes,Online sites,English
+Male,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Sci-fi;Thriller,Beauty and the Beast (2017),4,3 times,No,Online sites,English
+Female,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Sci-fi;Thriller,Munafik 2,4,3 times,No,Online sites,Malay
+Male,30 and above,Private sector workers,Johor,Less than 5,Action;Adventure;Comedy;Crime;Drama;Fantasy;Horror;Mystery;Romance;Sci-fi;Thriller,Avengers: Endgame (2019),5,2 times,No,Television,English
+Male,20 - 29,Student,Negeri Sembilan,Less than 5,Thriller,Munafik 2,4,3 times,Yes,Online sites,Malay
+Male,14 - 19,Student,Pahang,5 or more,Adventure;Animation;Comedy;Crime;Drama;Fantasy;Live Action;Mystery;Romance;Sci-fi,Crazy little thing called love (2010),4,2 times,No,Netflix,English
+Male,20 - 29,Student,Melaka,Less than 5,Action;Adventure;Comedy;Fantasy;Horror;Sci-fi,Avengers: Endgame (2019),5,2 times,Yes,Television,English
+Female,13 and below,Student,Negeri Sembilan,5 or more,Action;Adventure;Comedy;Crime;Romance;Sci-fi,Hunger Games,5,2 times,No,Online sites,English
+Male,20 - 29,Student,Negeri Sembilan,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Sci-fi;Thriller,Maleficient : Mistress of Evil,4,3 times,No,Online sites,English
+Male,20 - 29,Student,Negeri Sembilan,Less than 5,Thriller,Munafik 2,4,3 times,No,Online sites,Malay
+Female,20 - 29,Student,Melaka,Less than 5,Action;Comedy;Crime;Fantasy;Horror;Mystery;Romance;Sci-fi;Thriller,Train To Busan,5,3 times,Yes,Television,English
+Female,20 - 29,Student,Kedah,Less than 5,Animation;Comedy;Fantasy;Horror,Harry Potter and the chamber of Secret (1998),4,Once,No,Netflix,English
+Female,30 and above,Goverment sector workers,Melaka,Less than 5,Comedy;Fantasy,Jumanji: The Next Level( 2019),5,3 times,No,Netflix,English
+Female,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Comedy;Drama;Mystery;Romance,Maze Runner,5,2 times,Yes,Netflix,English
+Female,20 - 29,Others,Negeri Sembilan,Less than 5,Comedy;Drama;Horror;Romance,Maleficient : Mistress of Evil,4,2 times,Yes,Others,English
+Male,20 - 29,Student,Sabah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Fantasy;Horror;Live Action;Mystery;Romance;Sci-fi;Thriller,Crazy little thing called love (2010),4,More than 3 times,No,Television,English
+Female,14 - 19,Student,Terengganu,Less than 5,Animation;Comedy;Drama;Live Action;Thriller,Train To Busan,4,3 times,No,Television,Malay
+Male,20 - 29,Self employed,Kelantan,Less than 5,Action;Comedy;Drama;Romance,Suicide Squad (2016),4,More than 3 times,Yes,Online sites,English
+Male,20 - 29,Private sector workers,Negeri Sembilan,Less than 5,Action;Adventure;Animation;Crime;Horror;Mystery;Thriller,Jumanji: The Next Level( 2019),5,2 times,Yes,Television,English
+Female,20 - 29,Self employed,Kelantan,Less than 5,Action;Adventure;Comedy;Crime;Fantasy;Horror;Mystery;Romance;Thriller,Avengers: Endgame (2019),4,More than 3 times,Yes,Others,English
+Female,20 - 29,Student,Kelantan,Less than 5,Action;Adventure;Animation;Crime;Fantasy;Horror;Romance;Sci-fi;Thriller,Frozen II (2019),4,More than 3 times,No,Online sites,English
+Male,20 - 29,Student,Perak,Less than 5,Action;Adventure;Animation;Comedy;Fantasy;Romance,Frozen II (2019),5,Once,No,Others,Malay
+Female,20 - 29,Student,Kedah,Less than 5,Action;Comedy;Drama;Horror;Romance;Thriller,3 Idiots,5,3 times,No,Online sites,Korean
+Female,20 - 29,Student,Kelantan,Less than 5,Drama;Romance,Munafik 2,5,Once,No,Online sites,Malay
+Male,20 - 29,Student,Wilayah Persekutuan,Less than 5,Action;Crime;Fantasy;Sci-fi;Thriller,Avengers: Endgame (2019),5,More than 3 times,No,Online sites,English
+Female,20 - 29,Student,Penang,Less than 5,Action;Adventure;Comedy;Crime;Drama;Horror;Romance;Thriller,3 Idiots,5,More than 3 times,No,Online sites,English
+Female,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Comedy;Crime;Drama;Sci-fi;Thriller,Maleficient : Mistress of Evil,4,3 times,No,Online sites,English
+Female,20 - 29,Student,Selangor,Less than 5,Action;Adventure;Animation;Comedy;Crime;Live Action;Mystery;Thriller,3 Idiots,5,More than 3 times,No,Online sites,English
+Female,20 - 29,Student,Perak,Less than 5,Action;Adventure;Animation;Comedy;Fantasy;Mystery,Frozen II (2019),5,More than 3 times,Yes,Youtube,English
+Female,30 and above,Private sector workers,Wilayah Persekutuan,Less than 5,Action;Animation;Drama;Fantasy;Romance,Avengers: Endgame (2019),5,More than 3 times,Yes,Online sites,English
+Female,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Drama;Fantasy;Horror;Mystery;Romance,Maze Runner,5,More than 3 times,Yes,Others,English
+Female,20 - 29,Student,Kelantan,Less than 5,Action;Comedy;Crime;Drama;Mystery,Crazy little thing called love (2010),4,2 times,No,Online sites,English
+Female,20 - 29,Student,Selangor,Less than 5,Action;Adventure;Animation;Comedy;Drama;Romance,Ejen Ali The Movie,5,More than 3 times,Yes,Online sites,English
+Male,20 - 29,Student,Negeri Sembilan,Less than 5,Action;Adventure;Animation,3 Idiots,5,More than 3 times,No,Others,English
+Male,20 - 29,Goverment sector workers,Wilayah Persekutuan,Less than 5,Action;Comedy;Crime;Horror;Romance,Avengers: Endgame (2019),4,2 times,No,Others,English
+Female,20 - 29,Student,Kelantan,Less than 5,Action;Adventure;Crime;Horror;Mystery;Sci-fi;Thriller,Harry Potter and the chamber of Secret (1998),5,More than 3 times,No,Others,English
+Female,20 - 29,Student,Kelantan,Less than 5,Action;Animation;Comedy;Drama;Horror,Ejen Ali The Movie,5,More than 3 times,No,Others,Malay
+Female,20 - 29,Student,Pahang,Less than 5,Action;Adventure;Comedy;Crime;Drama;Mystery;Thriller,Munafik 2,4,More than 3 times,Yes,Television,Hindi
+Female,20 - 29,Student,Kelantan,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Fantasy;Horror;Mystery;Romance;Sci-fi;Thriller,Munafik 2,5,3 times,No,Others,Malay
+Female,20 - 29,Student,Kelantan,Less than 5,Animation;Comedy;Romance,Frozen II (2019),4,More than 3 times,No,Television,English
+Male,30 and above,Goverment sector workers,Negeri Sembilan,Less than 5,Horror,Jumanji: The Next Level( 2019),5,More than 3 times,Yes,Online sites,English
+Female,20 - 29,Student,Selangor,Less than 5,Action;Adventure;Animation;Horror;Sci-fi;Thriller,Ejen Ali The Movie,5,More than 3 times,Yes,Others,English
+Female,20 - 29,Others,Kelantan,Less than 5,Drama;Fantasy;Romance,Fall in Love at First Kiss (2019),4,Once,Yes,Online sites,English
+Male,14 - 19,Student,Kelantan,5 or more,Action;Adventure;Animation;Comedy;Drama;Live Action;Mystery;Romance,Ejen Ali The Movie,3,2 times,Yes,Youtube,English
+Female,20 - 29,Student,Kelantan,Less than 5,Action;Crime;Fantasy;Sci-fi;Thriller,Train To Busan,5,2 times,No,Online sites,English
+Female,20 - 29,Student,Kelantan,Less than 5,Animation;Crime;Horror;Mystery;Sci-fi;Thriller,Maze Runner,5,2 times,No,Youtube,English
+Female,20 - 29,Self employed,Perak,Less than 5,Adventure;Animation;Horror,Maleficient : Mistress of Evil,5,2 times,Yes,Online sites,English
+Female,20 - 29,Student,Kelantan,Less than 5,Action;Horror,Hunger Games,5,3 times,Yes,Youtube,English
+Female,20 - 29,Student,Kelantan,Less than 5,Action;Adventure;Comedy;Drama;Fantasy;Romance;Sci-fi;Thriller,Hunger Games,4,2 times,No,Others,Korean
+Female,20 - 29,Student,Kelantan,Less than 5,Action;Comedy;Horror;Romance,Jumanji: The Next Level( 2019),5,Once,No,Others,English
+Male,20 - 29,Student,Kelantan,Less than 5,Action;Adventure;Animation;Comedy;Fantasy,Avengers: Endgame (2019),5,2 times,Yes,Television,English
+Female,20 - 29,Student,Selangor,Less than 5,Action;Adventure;Animation;Comedy;Horror;Live Action;Mystery;Thriller,3 Idiots,5,More than 3 times,No,Online sites,English
+Female,20 - 29,Student,Kelantan,Less than 5,Action;Adventure;Comedy;Crime;Horror,3 Idiots,5,3 times,Yes,Others,English
+Male,30 and above,Goverment sector workers,Sarawak,Less than 5,Action;Adventure;Comedy;Crime;Drama;Romance;Sci-fi,3 Idiots,5,More than 3 times,No,Netflix,English
+Female,20 - 29,Student,Kelantan,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama,3 Idiots,4,More than 3 times,No,Television,English
+Female,20 - 29,Student,Kelantan,Less than 5,Action;Horror,Hunger Games,5,3 times,Yes,Youtube,English
+Female,30 and above,Others,Negeri Sembilan,Less than 5,Fantasy,Death Note: Light Up the New World (2016),1,Once,No,Others,Thai
+Female,14 - 19,Student,Perak,Less than 5,Animation;Drama;Romance,To All the Boys: P.S. I Still Love You,4,2 times,No,Netflix,English
+Female,14 - 19,Student,Terengganu,Less than 5,Comedy,Avengers: Endgame (2019),5,3 times,Yes,Television,English
+Female,20 - 29,Student,Terengganu,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Mystery;Romance,Train To Busan,5,More than 3 times,No,Online sites,English
+Female,20 - 29,Student,Melaka,Less than 5,Animation;Mystery,3 Idiots,4,2 times,Yes,Television,English
+Male,30 and above,Private sector workers,Negeri Sembilan,Less than 5,Action,Annabelle Comes Homes (2019),5,Once,Yes,Television,English
+Female,20 - 29,Student,Kedah,Less than 5,Action;Crime;Drama;Horror;Mystery;Sci-fi;Thriller,Hunger Games,4,3 times,No,Others,Korean
+Female,20 - 29,Student,Selangor,Less than 5,Crime;Mystery;Thriller,Exit (2019),5,2 times,Yes,Others,Korean
+Female,20 - 29,Student,Kelantan,Less than 5,Comedy;Crime;Drama;Fantasy;Horror;Romance,Fall in Love at First Kiss (2019),5,3 times,No,Netflix,English
+Female,20 - 29,Student,Terengganu,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Thriller,Train To Busan,5,More than 3 times,No,Television,English
+Female,20 - 29,Student,Pahang,Less than 5,Drama;Romance,Crazy little thing called love (2010),4,3 times,No,Others,English
+Male,20 - 29,Student,Selangor,Less than 5,Action;Adventure;Comedy;Drama;Horror;Live Action;Mystery;Romance;Sci-fi;Thriller,Exit (2019),4,Once,No,Netflix,Korean
+Female,20 - 29,Student,Kelantan,Less than 5,Comedy;Crime;Drama;Fantasy;Horror;Romance,Fall in Love at First Kiss (2019),5,3 times,No,Netflix,English
+Female,20 - 29,Student,Perak,Less than 5,Action;Animation;Crime;Drama;Mystery,The Last: Naruto Shippuden the Movie,5,3 times,Yes,Online sites,Japanese
+Female,20 - 29,Goverment sector workers,Selangor,Less than 5,Action;Adventure;Mystery;Thriller,Harry Potter and the chamber of Secret (1998),5,More than 3 times,No,Television,English
+Female,20 - 29,Student,Terengganu,Less than 5,Action;Adventure;Crime;Drama;Romance;Thriller,Harry Potter and the chamber of Secret (1998),5,More than 3 times,No,Television,Korean
+Female,20 - 29,Unemployed,Selangor,Less than 5,Action;Crime;Drama;Horror;Mystery,Annabelle Comes Homes (2019),4,2 times,No,Others,English
+Male,20 - 29,Student,Johor,Less than 5,Action;Adventure;Animation;Comedy;Crime;Romance,Avengers: Endgame (2019),4,2 times,Yes,Online sites,Malay
+Female,20 - 29,Student,Kedah,Less than 5,Adventure;Animation;Drama;Romance,Ejen Ali The Movie,4,2 times,No,Youtube,English
+Female,20 - 29,Student,Terengganu,5 or more,Action;Comedy;Drama;Live Action;Mystery;Romance;Sci-fi,Crazy little thing called love (2010),5,2 times,Yes,Online sites,Korean
+Female,20 - 29,Student,Perak,Less than 5,Action;Adventure;Horror;Sci-fi;Thriller,Harry Potter and the chamber of Secret (1998),5,More than 3 times,Yes,Online sites,English
+Female,20 - 29,Student,Pahang,Less than 5,Action;Animation;Romance,The Last: Naruto Shippuden the Movie,5,More than 3 times,No,Others,Japanese
+Male,14 - 19,Student,Terengganu,Less than 5,Action;Adventure;Animation;Comedy;Drama;Fantasy;Horror;Live Action;Mystery;Sci-fi;Thriller,3 Idiots,5,3 times,Yes,Online sites,English
+Male,13 and below,Student,Perlis,5 or more,Adventure;Animation;Fantasy;Mystery,Ejen Ali The Movie,5,More than 3 times,Yes,Netflix,Japanese
+Male,13 and below,Student,Johor,Less than 5,Action;Adventure;Animation;Comedy;Mystery;Sci-fi;Thriller,Jumanji: The Next Level( 2019),5,Once,Yes,Netflix,English
+Male,30 and above,Private sector workers,Kedah,Less than 5,Action;Adventure;Crime;Horror;Mystery;Thriller,Train To Busan,4,2 times,Yes,Netflix,Korean
+Male,20 - 29,Private sector workers,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Sci-fi;Thriller,Annabelle Comes Homes (2019),4,Once,Yes,Netflix,English
+Male,20 - 29,Goverment sector workers,Kelantan,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Thriller,The Last: Naruto Shippuden the Movie,4,2 times,Yes,Online sites,Japanese
+Male,20 - 29,Unemployed,Sabah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Mystery;Romance;Sci-fi;Thriller,Death Note: Light Up the New World (2016),4,Once,Yes,Netflix,English
+Female,20 - 29,Student,Selangor,Less than 5,Action;Adventure;Comedy;Crime;Drama;Fantasy;Horror;Live Action;Mystery;Romance;Sci-fi;Thriller,Harry Potter and the chamber of Secret (1998),5,More than 3 times,No,Television,English
+Female,20 - 29,Student,Selangor,Less than 5,Action;Adventure;Animation;Crime;Mystery,Train To Busan,4,More than 3 times,No,Others,Japanese
+Female,20 - 29,Student,Penang,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Horror;Mystery;Romance;Thriller,Train To Busan,5,2 times,Yes,Others,Malay
+Female,20 - 29,Student,Kedah,Less than 5,Action;Comedy;Crime;Drama;Fantasy;Mystery;Romance;Sci-fi,The Last: Naruto Shippuden the Movie,5,2 times,Yes,Others,English
+Female,20 - 29,Student,Kelantan,Less than 5,Action;Adventure;Animation;Comedy,Harry Potter and the chamber of Secret (1998),5,3 times,Yes,Online sites,English
+Female,30 and above,Self employed,Kelantan,Less than 5,Adventure;Comedy;Drama;Fantasy;Romance;Sci-fi;Thriller,Maleficient : Mistress of Evil,3,Once,Yes,Netflix,English
+Female,20 - 29,Goverment sector workers,Kelantan,Less than 5,Action;Adventure;Animation;Comedy,Avengers: Endgame (2019),4,2 times,Yes,Netflix,English
+Female,13 and below,Student,Kelantan,5 or more,Action;Adventure;Animation;Comedy;Drama;Fantasy;Mystery;Romance;Sci-fi;Thriller,Frozen II (2019),5,2 times,Yes,Netflix,Korean
+Female,14 - 19,Student,Kelantan,Less than 5,Action;Adventure;Animation;Comedy;Fantasy;Romance,Beauty and the Beast (2017),4,Once,Yes,Online sites,Thai
+Female,14 - 19,Student,Kelantan,Less than 5,Animation,Ejen Ali The Movie,5,More than 3 times,Yes,Netflix,Japanese
+Female,30 and above,Goverment sector workers,Kelantan,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Horror;Mystery;Romance;Sci-fi;Thriller,Joker (2019),5,Once,Yes,Netflix,English
+Female,14 - 19,Student,Kelantan,Less than 5,Action;Adventure;Animation;Comedy;Fantasy;Horror;Romance,Annabelle Comes Homes (2019),3,Once,Yes,Netflix,English
+Female,20 - 29,Student,Kelantan,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Fantasy;Mystery;Romance;Sci-fi;Thriller,Fall in Love at First Kiss (2019),4,Once,Yes,Netflix,Chinese
+Female,20 - 29,Private sector workers,Kelantan,Less than 5,Action;Adventure;Animation;Comedy;Crime;Thriller,Exit (2019),4,Once,Yes,Netflix,English
+Male,20 - 29,Unemployed,Sarawak,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Live Action;Mystery;Romance;Sci-fi;Thriller,Baby Driver (2017),3,Once,Yes,Netflix,English
+Male,20 - 29,Unemployed,Sabah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Thriller,Baby Driver (2017),4,Once,Yes,Netflix,Chinese
+Male,30 and above,Private sector workers,Sarawak,Less than 5,Action;Adventure;Comedy;Crime;Horror;Mystery;Romance;Thriller,Avengers: Endgame (2019),5,2 times,Yes,Netflix,English
+Male,13 and below,Student,Sarawak,Less than 5,Action;Adventure;Animation;Comedy;Sci-fi,Harry Potter and the chamber of Secret (1998),4,2 times,Yes,Netflix,English
+Male,14 - 19,Self employed,Sabah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Sci-fi;Thriller,Exit (2019),3,Once,Yes,Netflix,English
+Male,14 - 19,Self employed,Sabah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Live Action;Mystery;Romance;Sci-fi;Thriller,Hunger Games,4,Once,Yes,Netflix,English
+Male,30 and above,Goverment sector workers,Sarawak,Less than 5,Action;Adventure;Crime;Drama;Horror;Live Action;Mystery;Romance;Thriller,Joker (2019),4,Once,Yes,Netflix,English
+Male,30 and above,Goverment sector workers,Sabah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Mystery;Thriller,Jumanji: The Next Level( 2019),4,Once,Yes,Online sites,English
+Male,30 and above,Self employed,Sarawak,Less than 5,Action;Adventure;Comedy;Crime;Mystery;Thriller,Maze Runner,4,2 times,Yes,Netflix,English
+Male,30 and above,Self employed,Sabah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Horror;Romance;Sci-fi;Thriller,3 Idiots,5,3 times,Yes,Netflix,Hindi
+Male,13 and below,Student,Perlis,Less than 5,Adventure;Animation;Comedy,Ejen Ali The Movie,5,2 times,Yes,Youtube,Japanese
+Male,13 and below,Student,Perlis,Less than 5,Action;Adventure;Animation;Comedy,Harry Potter and the chamber of Secret (1998),5,2 times,No,Online sites,English
+Male,13 and below,Student,Perlis,Less than 5,Action;Adventure;Animation;Comedy,Avengers: Endgame (2019),4,3 times,Yes,Netflix,English
+Male,13 and below,Student,Perlis,Less than 5,Adventure;Animation;Comedy,Jumanji: The Next Level( 2019),4,Once,No,Youtube,English
+Male,30 and above,Self employed,Perlis,Less than 5,Action;Adventure;Crime;Mystery;Thriller,Death Note: Light Up the New World (2016),4,Once,No,Netflix,English
+Male,14 - 19,Self employed,Perlis,Less than 5,Action;Adventure;Animation;Crime;Horror;Mystery;Thriller,Maleficient : Mistress of Evil,4,2 times,Yes,Netflix,English
+Male,20 - 29,Unemployed,Perlis,5 or more,Action;Adventure;Animation;Comedy;Crime;Horror;Live Action;Mystery;Romance;Sci-fi;Thriller,Exit (2019),4,Once,No,Netflix,Thai
+Male,14 - 19,Unemployed,Perlis,Less than 5,Action;Adventure;Animation;Crime;Horror,Joker (2019),4,2 times,Yes,Netflix,English
+Male,20 - 29,Private sector workers,Perlis,Less than 5,Action;Adventure;Animation;Comedy;Crime;Mystery;Thriller,3 Idiots,5,2 times,Yes,Youtube,Hindi
+Male,30 and above,Goverment sector workers,Perlis,Less than 5,Action;Adventure;Comedy;Crime;Mystery;Romance;Thriller,Crazy little thing called love (2010),3,2 times,No,Netflix,Thai
+Male,30 and above,Goverment sector workers,Perak,Less than 5,Action;Adventure;Comedy;Crime,Hit and Run Squad (2019),5,2 times,No,Netflix,Korean
+Male,20 - 29,Self employed,Pahang,Less than 5,Adventure;Animation;Comedy;Crime;Thriller,Maze Runner,4,2 times,Yes,Netflix,English
+Male,20 - 29,Student,Kelantan,Less than 5,Action;Adventure;Animation;Comedy;Fantasy,The Last: Naruto Shippuden the Movie,5,More than 3 times,Yes,Online sites,Malay
+Male,20 - 29,Others,Terengganu,Less than 5,Action,3 Idiots,5,More than 3 times,No,Online sites,English
+Male,14 - 19,Student,Penang,Less than 5,Adventure;Animation;Comedy,Avengers: Endgame (2019),4,2 times,Yes,Netflix,English
+Male,30 and above,Goverment sector workers,Penang,Less than 5,Action;Adventure;Animation;Crime,Exit (2019),4,Once,No,Netflix,English
+Female,20 - 29,Unemployed,Selangor,Less than 5,Action;Adventure;Animation;Comedy;Drama;Romance,Ejen Ali The Movie,5,More than 3 times,Yes,Online sites,English
+Male,30 and above,Private sector workers,Penang,Less than 5,Action;Adventure;Comedy;Crime;Thriller,Train To Busan,4,Once,No,Online sites,Korean
+Male,13 and below,Student,Penang,Less than 5,Animation,Ejen Ali The Movie,5,More than 3 times,Yes,Netflix,Japanese
+Male,13 and below,Student,Penang,Less than 5,Adventure;Animation;Horror,Avengers: Endgame (2019),5,2 times,Yes,Netflix,English
+Male,14 - 19,Student,Kedah,Less than 5,Adventure;Animation;Comedy;Horror;Mystery,Harry Potter and the chamber of Secret (1998),4,Once,Yes,Netflix,English
+Male,14 - 19,Student,Johor,Less than 5,Action;Adventure;Comedy;Crime;Thriller,The Lion King (2019),4,Once,No,Netflix,English
+Male,14 - 19,Student,Perak,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Thriller,Death Note: Light Up the New World (2016),4,Once,No,Netflix,English
+Male,13 and below,Student,Sabah,Less than 5,Action;Adventure;Comedy;Mystery;Thriller,Hit and Run Squad (2019),4,2 times,No,Netflix,Korean
+Male,20 - 29,Private sector workers,Wilayah Persekutuan,Less than 5,Animation;Drama,Avengers: Endgame (2019),5,Once,No,Netflix,English
+Male,20 - 29,Student,Pahang,Less than 5,Action;Adventure;Animation;Comedy;Horror;Mystery,3 Idiots,4,3 times,Yes,Youtube,Hindi
+Male,30 and above,Private sector workers,Perlis,Less than 5,Action;Adventure;Comedy;Drama;Live Action;Mystery;Romance;Thriller,3 Idiots,5,3 times,Yes,Youtube,Hindi
+Male,20 - 29,Student,Selangor,Less than 5,Action;Adventure;Comedy;Drama;Horror;Live Action;Mystery;Romance;Sci-fi;Thriller,Exit (2019),4,Once,No,Netflix,Korean
+Male,30 and above,Self employed,Negeri Sembilan,Less than 5,Comedy;Crime;Horror;Mystery;Thriller,Munafik 2,3,Once,No,Youtube,Malay
+Male,30 and above,Unemployed,Johor,Less than 5,Action;Adventure;Comedy;Romance;Thriller,Spider-Man: Far from Home (2019),4,Once,No,Netflix,English
+Male,14 - 19,Student,Kelantan,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Romance;Sci-fi;Thriller,The Last: Naruto Shippuden the Movie,4,2 times,Yes,Netflix,Japanese
+Male,13 and below,Student,Penang,Less than 5,Action;Adventure;Animation;Comedy;Mystery;Romance;Thriller,Maleficient : Mistress of Evil,4,Once,No,Netflix,English
+Female,20 - 29,Student,Terengganu,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Mystery;Thriller,Joker (2019),5,3 times,Yes,Others,Korean
+Male,20 - 29,Student,Melaka,Less than 5,Action;Adventure;Mystery;Thriller,Suicide Squad (2016),4,Once,No,Netflix,English
+Male,20 - 29,Unemployed,Perak,Less than 5,Adventure;Animation;Comedy;Crime;Horror,Annabelle Comes Homes (2019),4,Once,No,Netflix,English
+Female,14 - 19,Student,Terengganu,Less than 5,Action;Animation;Comedy;Crime;Drama;Mystery;Romance;Thriller,Fall in Love at First Kiss (2019),4,Once,No,Netflix,Korean
+Male,14 - 19,Student,Penang,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror,Avengers: Endgame (2019),4,2 times,Yes,Netflix,English
+Male,20 - 29,Self employed,Kedah,Less than 5,Action;Adventure;Animation;Romance;Thriller,Jumanji: The Next Level( 2019),4,2 times,Yes,Youtube,English
+Male,30 and above,Goverment sector workers,Kelantan,Less than 5,Action;Adventure;Animation;Fantasy;Mystery;Sci-fi,Jumanji: The Next Level( 2019),4,3 times,Yes,Youtube,English
+Male,30 and above,Goverment sector workers,Perak,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Mystery;Romance;Sci-fi;Thriller,Fall in Love at First Kiss (2019),4,2 times,No,Online sites,Chinese
+Female,20 - 29,Student,Wilayah Persekutuan,Less than 5,Action;Adventure;Comedy;Drama,Frozen II (2019),5,Once,No,Online sites,English
+Male,20 - 29,Student,Kelantan,Less than 5,Adventure;Animation;Comedy;Fantasy;Romance;Thriller,Fall in Love at First Kiss (2019),4,Once,Yes,Online sites,Chinese
+Female,20 - 29,Others,Kelantan,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Mystery;Romance;Thriller,Maleficient : Mistress of Evil,5,Once,Yes,Online sites,English
+Male,20 - 29,Self employed,Sarawak,Less than 5,Adventure;Animation;Comedy;Crime;Romance;Thriller,Death Note: Light Up the New World (2016),4,Once,No,Netflix,English
+Male,20 - 29,Unemployed,Sarawak,Less than 5,Animation;Comedy;Crime;Fantasy;Mystery;Romance;Thriller,3 Idiots,4,2 times,Yes,Youtube,Hindi
+Male,30 and above,Self employed,Sabah,Less than 5,Action;Adventure;Crime;Horror;Mystery;Thriller,Hit and Run Squad (2019),4,Once,No,Netflix,Korean
+Male,30 and above,Self employed,Kedah,Less than 5,Adventure;Animation;Comedy;Drama;Sci-fi;Thriller,Joker (2019),4,Once,No,Netflix,English
+Male,13 and below,Student,Perak,Less than 5,Adventure;Animation;Crime,Harry Potter and the chamber of Secret (1998),4,3 times,Yes,Youtube,English
+Female,20 - 29,Student,Selangor,Less than 5,Action;Comedy;Crime;Drama;Horror;Mystery;Thriller,Maze Runner,4,More than 3 times,Yes,Online sites,English
+Female,20 - 29,Student,Kelantan,Less than 5,Action;Adventure;Animation;Comedy;Fantasy;Mystery;Romance,Maleficient : Mistress of Evil,3,2 times,No,Online sites,English
+Male,20 - 29,Goverment sector workers,Kelantan,Less than 5,Action;Adventure;Animation;Comedy;Drama;Fantasy,Bleach (2018),5,More than 3 times,Yes,Netflix,English
+Male,20 - 29,Goverment sector workers,Perak,Less than 5,Action;Thriller,Hunger Games,5,More than 3 times,Yes,Netflix,English
+Female,20 - 29,Student,Kelantan,Less than 5,Animation;Drama;Horror,Munafik 2,5,More than 3 times,Yes,Online sites,Korean
+Female,20 - 29,Self employed,Kelantan,5 or more,Drama;Fantasy,Crazy little thing called love (2010),5,More than 3 times,Yes,Online sites,Thai
+Male,20 - 29,Private sector workers,Kelantan,Less than 5,Mystery,Munafik 2,5,Once,Yes,Youtube,Malay
+Female,20 - 29,Student,Pahang,5 or more,Drama;Romance,Crazy little thing called love (2010),4,2 times,No,Online sites,Thai
+Male,20 - 29,Private sector workers,Selangor,Less than 5,Action;Comedy;Fantasy;Mystery;Thriller,Harry Potter and the chamber of Secret (1998),5,More than 3 times,Yes,Others,English
+Male,14 - 19,Student,Wilayah Persekutuan,Less than 5,Animation;Live Action,Ejen Ali The Movie,5,Once,No,Netflix,Malay
+Male,30 and above,Private sector workers,Penang,Less than 5,Action;Crime;Live Action;Thriller,Death Note: Light Up the New World (2016),4,2 times,No,Online sites,English
+Female,20 - 29,Student,Selangor,Less than 5,Action;Animation;Comedy;Crime;Fantasy;Horror;Romance;Thriller,3 Idiots,5,More than 3 times,Yes,Others,English
+Male,30 and above,Private sector workers,Kedah,Less than 5,Action;Adventure;Crime,Exit (2019),4,Once,No,Netflix,English
+Male,20 - 29,Student,Sarawak,Less than 5,Horror;Mystery;Thriller,Annabelle Comes Homes (2019),3,Once,No,Online sites,Japanese
+Male,20 - 29,Student,Selangor,Less than 5,Action;Adventure;Comedy;Romance;Thriller,Avengers: Endgame (2019),5,More than 3 times,No,Netflix,English
+Female,20 - 29,Student,Johor,Less than 5,Drama,Fall in Love at First Kiss (2019),5,More than 3 times,Yes,Online sites,Korean
+Male,20 - 29,Others,Selangor,Less than 5,Action;Adventure;Comedy;Horror;Mystery,Munafik 2,3,More than 3 times,Yes,Others,Malay
+Male,20 - 29,Private sector workers,Johor,5 or more,Comedy;Live Action,Jumanji: The Next Level( 2019),5,2 times,Yes,Television,English
+Female,20 - 29,Private sector workers,Negeri Sembilan,5 or more,Drama;Fantasy,Maleficient : Mistress of Evil,5,More than 3 times,Yes,Online sites,Korean
+Female,20 - 29,Self employed,Melaka,Less than 5,Drama;Romance,To All the Boys: P.S. I Still Love You,3,Once,No,Youtube,Thai
+Male,20 - 29,Private sector workers,Selangor,Less than 5,Action;Adventure;Crime;Thriller,Avengers: Endgame (2019),5,Once,Yes,Netflix,English
+Male,20 - 29,Private sector workers,Negeri Sembilan,Less than 5,Action;Crime;Thriller,Bleach (2018),4,Once,No,Netflix,English
+Female,30 and above,Self employed,Negeri Sembilan,Less than 5,Drama,Fall in Love at First Kiss (2019),3,Once,No,Online sites,Thai
+Male,20 - 29,Self employed,Kelantan,Less than 5,Comedy;Fantasy,Beauty and the Beast (2017),3,Once,No,Television,Korean
+Male,20 - 29,Unemployed,Kelantan,Less than 5,Action;Adventure;Animation;Comedy;Mystery;Romance;Thriller,Hit and Run Squad (2019),4,Once,No,Netflix,Korean
+Male,30 and above,Self employed,Kelantan,Less than 5,Adventure;Animation;Comedy;Mystery;Romance;Thriller,Crazy little thing called love (2010),4,Once,Yes,Youtube,Japanese
+Male,20 - 29,Student,Kelantan,Less than 5,Action;Adventure;Crime;Fantasy;Horror;Mystery;Romance;Thriller,Crazy little thing called love (2010),4,Once,Yes,Youtube,Thai
+Male,30 and above,Goverment sector workers,Kelantan,Less than 5,Action;Sci-fi,Avengers: Endgame (2019),5,2 times,Yes,Online sites,English
+Female,30 and above,Goverment sector workers,Melaka,Less than 5,Drama;Fantasy,Maleficient : Mistress of Evil,4,3 times,Yes,Netflix,Korean
+Male,20 - 29,Private sector workers,Kedah,Less than 5,Comedy;Drama,Crazy Rich Asian,3,Once,No,Online sites,English
+Male,20 - 29,Private sector workers,Terengganu,Less than 5,Action;Animation;Mystery,Annabelle Comes Homes (2019),1,Once,No,Online sites,English
+Male,13 and below,Student,Kelantan,Less than 5,Adventure;Animation;Comedy;Fantasy,Ejen Ali The Movie,4,More than 3 times,Yes,Netflix,Malay
+Female,30 and above,Goverment sector workers,Melaka,Less than 5,Horror;Thriller,Train To Busan,3,Once,No,Television,Malay
+Male,13 and below,Student,Melaka,Less than 5,Adventure;Animation;Horror;Mystery,The Last: Naruto Shippuden the Movie,4,2 times,Yes,Netflix,Japanese
+Male,20 - 29,Student,Melaka,Less than 5,Action;Drama;Fantasy,Avengers: Endgame (2019),4,Once,No,Netflix,Korean
+Male,30 and above,Self employed,Kelantan,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Fantasy;Horror;Live Action;Mystery;Romance;Sci-fi;Thriller,Maleficient : Mistress of Evil,4,Once,Yes,Netflix,English
+Male,20 - 29,Self employed,Kelantan,Less than 5,Adventure;Animation;Drama;Fantasy;Horror;Live Action;Mystery;Romance;Thriller,Train To Busan,4,Once,Yes,Netflix,Korean
+Male,14 - 19,Student,Kelantan,Less than 5,Action;Adventure;Animation;Comedy;Fantasy;Mystery;Romance;Sci-fi;Thriller,Crazy Rich Asian,4,Once,No,Netflix,English
+Male,30 and above,Goverment sector workers,Kelantan,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Fantasy;Horror;Mystery;Romance;Sci-fi;Thriller,Hit and Run Squad (2019),4,2 times,Yes,Netflix,Korean
+Female,13 and below,Student,Kelantan,Less than 5,Adventure;Animation;Comedy;Fantasy,Jumanji: The Next Level( 2019),4,2 times,Yes,Youtube,Thai
+Male,13 and below,Student,Kelantan,Less than 5,Action;Adventure;Comedy;Horror;Romance,Crazy little thing called love (2010),3,Once,Yes,Youtube,Chinese
+Male,20 - 29,Private sector workers,Penang,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Horror;Mystery;Thriller,Frozen II (2019),5,3 times,Yes,Netflix,Chinese
+Female,14 - 19,Student,Kelantan,Less than 5,Action;Adventure;Comedy;Drama;Mystery;Romance,Beauty and the Beast (2017),4,2 times,No,Youtube,Malay
+Male,14 - 19,Student,Johor,Less than 5,Action;Adventure;Animation;Comedy;Fantasy;Horror;Live Action;Mystery;Romance;Thriller,Ejen Ali The Movie,5,More than 3 times,Yes,Netflix,Malay
+Female,14 - 19,Self employed,Perak,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Fantasy;Horror;Mystery;Romance;Sci-fi,Munafik 2,4,Once,No,Netflix,Malay
+Female,14 - 19,Student,Perlis,Less than 5,Action;Adventure;Animation;Crime;Horror;Mystery;Sci-fi;Thriller,Spider-Man: Far from Home (2019),4,Once,No,Netflix,English
+Male,20 - 29,Goverment sector workers,Perlis,Less than 5,Adventure;Animation;Comedy;Romance,Annabelle Comes Homes (2019),3,Once,No,Netflix,Japanese
+Female,30 and above,Private sector workers,Penang,Less than 5,Action;Adventure;Animation;Comedy;Crime;Romance;Thriller,The Lion King (2019),4,2 times,No,Netflix,English
+Male,20 - 29,Student,Negeri Sembilan,Less than 5,Comedy;Drama;Mystery;Romance,Maze Runner,4,Once,No,Netflix,English
+Female,14 - 19,Student,Perlis,Less than 5,Adventure;Animation;Comedy;Drama,3 Idiots,5,3 times,Yes,Youtube,Hindi
+Male,13 and below,Student,Sarawak,5 or more,Action;Adventure;Animation;Comedy;Drama;Mystery,Joker (2019),4,2 times,Yes,Netflix,English
+Female,20 - 29,Private sector workers,Selangor,Less than 5,Action;Adventure;Animation;Comedy;Drama,Baby Driver (2017),5,More than 3 times,No,Online sites,English
+Male,20 - 29,Student,Sabah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Mystery;Romance;Thriller,Ejen Ali The Movie,4,2 times,Yes,Netflix,Malay
+Female,13 and below,Student,Negeri Sembilan,Less than 5,Animation;Comedy;Mystery;Romance;Sci-fi,Frozen II (2019),5,3 times,Yes,Netflix,English
+Female,20 - 29,Student,Perak,Less than 5,Action;Comedy;Drama;Horror;Mystery;Romance;Thriller,Maleficient : Mistress of Evil,5,3 times,No,Others,English
+Female,13 and below,Student,Sabah,Less than 5,Adventure;Animation;Comedy;Fantasy;Romance,Frozen II (2019),4,More than 3 times,Yes,Youtube,Japanese
+Male,20 - 29,Private sector workers,Selangor,Less than 5,Action;Adventure;Comedy,Avengers: Endgame (2019),5,More than 3 times,Yes,Television,English
+Male,14 - 19,Student,Negeri Sembilan,Less than 5,Action;Adventure;Animation;Comedy;Mystery,Kong: Skull Island(2017),4,Once,No,Youtube,English
+Male,20 - 29,Private sector workers,Wilayah Persekutuan,Less than 5,Adventure;Animation;Fantasy;Mystery;Romance,Bleach (2018),4,2 times,Yes,Youtube,Japanese
+Female,20 - 29,Student,Wilayah Persekutuan,Less than 5,Adventure;Animation;Comedy;Crime;Drama;Fantasy;Horror;Romance;Thriller,Death Note: Light Up the New World (2016),5,More than 3 times,Yes,Others,English
+Male,20 - 29,Goverment sector workers,Kedah,5 or more,Action;Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance;Thriller,Crazy Rich Asian,4,Once,No,Youtube,English
+Female,20 - 29,Student,Terengganu,Less than 5,Action;Adventure;Comedy;Crime;Drama;Mystery;Romance;Sci-fi;Thriller,Suicide Squad (2016),5,3 times,No,Online sites,English
+Male,20 - 29,Self employed,Kedah,5 or more,Action;Adventure;Animation;Romance;Thriller,Suicide Squad (2016),4,Once,No,Youtube,English
+Female,20 - 29,Self employed,Melaka,Less than 5,Drama;Horror,Maleficient : Mistress of Evil,5,More than 3 times,Yes,Netflix,Thai
+Female,20 - 29,Private sector workers,Selangor,Less than 5,Action;Crime;Romance,Maze Runner,4,More than 3 times,No,Television,English
+Male,20 - 29,Student,Johor,Less than 5,Action;Adventure;Animation;Comedy;Horror;Sci-fi;Thriller,Avengers: Endgame (2019),4,More than 3 times,No,Others,English
+Female,20 - 29,Student,Selangor,Less than 5,Crime;Horror,Train To Busan,5,3 times,Yes,Online sites,English
+Male,30 and above,Private sector workers,Wilayah Persekutuan,Less than 5,Action;Crime;Thriller,Avengers: Endgame (2019),4,Once,No,Others,English
+Male,30 and above,Goverment sector workers,Wilayah Persekutuan,Less than 5,Action;Adventure,Harry Potter and the chamber of Secret (1998),4,Once,No,Online sites,English
+Female,20 - 29,Student,Penang,Less than 5,Animation;Comedy;Drama;Horror,Annabelle Comes Homes (2019),4,2 times,No,Online sites,English
+Male,30 and above,Goverment sector workers,Wilayah Persekutuan,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Live Action;Mystery;Sci-fi;Thriller,Avengers: Endgame (2019),4,More than 3 times,No,Others,English
+Female,14 - 19,Student,Kelantan,5 or more,Action;Adventure;Fantasy;Romance,Suicide Squad (2016),4,3 times,No,Netflix,English
+Male,20 - 29,Student,Penang,Less than 5,Action;Adventure;Mystery;Romance,Crazy little thing called love (2010),5,More than 3 times,Yes,Online sites,Thai
+Female,14 - 19,Student,Kelantan,5 or more,Action;Adventure;Fantasy;Romance,Suicide Squad (2016),4,3 times,No,Netflix,English
+Female,14 - 19,Student,Selangor,Less than 5,Animation;Fantasy,Frozen II (2019),4,2 times,No,Netflix,Malay
+Female,20 - 29,Student,Selangor,Less than 5,Horror;Thriller,Maze Runner,3,2 times,No,Others,Korean
+Female,14 - 19,Student,Perlis,Less than 5,Animation;Crime;Fantasy;Mystery,Crazy little thing called love (2010),4,3 times,Yes,Online sites,English
+Female,20 - 29,Student,Selangor,Less than 5,Action;Adventure;Animation;Comedy;Fantasy;Horror,Train To Busan,5,More than 3 times,No,Others,English
+Male,30 and above,Goverment sector workers,Negeri Sembilan,Less than 5,Action;Live Action;Thriller,Hit and Run Squad (2019),4,2 times,No,Online sites,English
+Male,20 - 29,Student,Selangor,Less than 5,Action;Fantasy,Avengers: Endgame (2019),5,More than 3 times,No,Online sites,English
+Female,20 - 29,Self employed,Sabah,Less than 5,Horror;Mystery,Train To Busan,5,More than 3 times,No,Online sites,English
+Male,14 - 19,Student,Penang,Less than 5,Adventure;Fantasy,Harry Potter and the chamber of Secret (1998),5,3 times,Yes,Online sites,English
+Male,20 - 29,Student,Selangor,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Mystery;Thriller,3 Idiots,5,More than 3 times,No,Others,Korean
+Male,20 - 29,Student,Perak,Less than 5,Comedy,3 Idiots,3,Once,No,Television,Chinese
+Female,20 - 29,Private sector workers,Kedah,Less than 5,Adventure;Animation;Comedy;Crime;Drama;Mystery;Romance;Thriller,Ejen Ali The Movie,5,3 times,No,Others,Korean
+Male,30 and above,Private sector workers,Selangor,Less than 5,Action;Adventure;Fantasy,Avengers: Endgame (2019),5,2 times,No,Others,English
+Male,20 - 29,Private sector workers,Melaka,5 or more,Mystery;Thriller,Hunger Games,5,More than 3 times,No,Television,English
+Female,20 - 29,Self employed,Perak,Less than 5,Action;Adventure;Animation;Comedy;Crime;Romance;Sci-fi;Thriller,3 Idiots,5,More than 3 times,Yes,Online sites,Korean
+Male,20 - 29,Private sector workers,Johor,Less than 5,Animation,Joker (2019),3,Once,No,Netflix,Japanese
+Male,30 and above,Self employed,Selangor,Less than 5,Action;Adventure;Animation;Comedy;Mystery;Thriller,Crazy Rich Asian,5,More than 3 times,No,Others,English
+Male,30 and above,Self employed,Kelantan,Less than 5,Drama,Munafik 2,4,2 times,Yes,Television,Malay
+Male,20 - 29,Private sector workers,Melaka,Less than 5,Action;Adventure;Animation;Comedy;Drama;Fantasy;Mystery;Romance;Sci-fi,Jumanji: The Next Level( 2019),5,3 times,Yes,Others,English
+Female,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Romance;Sci-fi,To All the Boys: P.S. I Still Love You,5,2 times,Yes,Online sites,Korean
+Male,13 and below,Student,Selangor,Less than 5,Action;Thriller,Avengers: Endgame (2019),5,More than 3 times,Yes,Netflix,English
+Female,20 - 29,Student,Wilayah Persekutuan,Less than 5,Comedy;Romance,Avengers: Endgame (2019),5,Once,Yes,Others,Malay
+Female,14 - 19,Student,Pahang,Less than 5,Adventure;Animation;Comedy;Crime;Horror;Mystery;Romance,Ejen Ali The Movie,5,Once,No,Others,Korean
+Female,20 - 29,Goverment sector workers,Kedah,5 or more,Drama,Beauty and the Beast (2017),4,Once,No,Online sites,Korean
+Female,20 - 29,Student,Selangor,Less than 5,Action;Animation;Drama,Beauty and the Beast (2017),3,3 times,Yes,Online sites,English
+Female,20 - 29,Student,Melaka,Less than 5,Comedy;Fantasy,Frozen II (2019),4,2 times,No,Netflix,Korean
+Male,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Horror,The Last: Naruto Shippuden the Movie,5,3 times,No,Others,Japanese
+Female,20 - 29,Student,Penang,Less than 5,Animation;Comedy;Drama;Fantasy;Romance,Harry Potter and the chamber of Secret (1998),5,More than 3 times,No,Online sites,Korean
+Female,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Horror;Romance;Thriller,Exit (2019),5,More than 3 times,No,Online sites,Korean
+Female,20 - 29,Private sector workers,Selangor,Less than 5,Adventure;Animation;Comedy;Drama;Fantasy;Romance;Sci-fi,Harry Potter and the chamber of Secret (1998),5,More than 3 times,No,Netflix,English
+Female,20 - 29,Student,Selangor,Less than 5,Action;Animation;Drama,Beauty and the Beast (2017),3,3 times,Yes,Online sites,English
+Female,20 - 29,Unemployed,Selangor,Less than 5,Action;Comedy,3 Idiots,5,3 times,Yes,Online sites,English
+Female,20 - 29,Unemployed,Selangor,Less than 5,Adventure;Animation;Comedy;Crime;Fantasy;Sci-fi,Harry Potter and the chamber of Secret (1998),5,More than 3 times,No,Online sites,English
+Female,14 - 19,Student,Johor,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Sci-fi;Thriller,Ejen Ali The Movie,4,More than 3 times,No,Online sites,English
+Female,20 - 29,Student,Perak,Less than 5,Animation;Comedy;Drama;Fantasy,Harry Potter and the chamber of Secret (1998),4,3 times,Yes,Others,English
+Male,20 - 29,Student,Selangor,Less than 5,Action;Adventure;Animation;Comedy;Crime;Drama;Fantasy;Live Action;Mystery;Romance;Sci-fi,Death Note: Light Up the New World (2016),4,Once,No,Netflix,Japanese
+Male,14 - 19,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Mystery;Sci-fi;Thriller,Avengers: Endgame (2019),4,3 times,No,Online sites,English
+Male,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Live Action;Mystery;Sci-fi;Thriller,Joker (2019),4,3 times,Yes,Online sites,English
+Male,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Mystery;Sci-fi;Thriller,Maleficient : Mistress of Evil,4,3 times,No,Online sites,English
+Male,20 - 29,Student,Wilayah Persekutuan,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Mystery;Sci-fi;Thriller,Maleficient : Mistress of Evil,4,3 times,No,Online sites,English
+Male,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Mystery;Sci-fi;Thriller,Maleficient : Mistress of Evil,4,3 times,Yes,Online sites,English
+Male,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Mystery;Sci-fi;Thriller,Joker (2019),4,3 times,No,Online sites,English
+Male,20 - 29,Student,Wilayah Persekutuan,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Mystery;Sci-fi;Thriller,The Lion King (2019),4,3 times,No,Online sites,English
+Male,14 - 19,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Mystery;Sci-fi;Thriller,Avengers: Endgame (2019),4,3 times,Yes,Online sites,English
+Female,14 - 19,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Mystery;Sci-fi;Thriller,3 Idiots,4,3 times,No,Online sites,English
+Female,14 - 19,Student,Wilayah Persekutuan,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Mystery;Sci-fi;Thriller,Ejen Ali The Movie,4,3 times,Yes,Online sites,English
+Female,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Mystery;Sci-fi;Thriller,Exit (2019),4,Once,No,Online sites,English
+Female,14 - 19,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Mystery;Sci-fi;Thriller,Crazy Rich Asian,4,3 times,Yes,Online sites,English
+Female,20 - 29,Student,Wilayah Persekutuan,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Mystery;Sci-fi;Thriller,Baby Driver (2017),4,3 times,No,Online sites,English
+Male,20 - 29,Student,Kedah,Less than 5,Action;Adventure;Animation;Comedy;Crime;Fantasy;Horror;Mystery;Sci-fi;Thriller,The Lion King (2019),4,3 times,Yes,Online sites,English
